@@ -8,7 +8,7 @@
         "Route": "Ingestion",
         "treats?": "chronic fatigue, thirst, weakness, chronic wheezing, dry cough",
         "DrugMechansim": "Promotes vascular endothelial cell-derived nitric oxide secretion. Modulates multiple steps of angiogenesis such as inhibiting endothelial cell proliferation, formation of capillary tube, and vascular endothelial growth factor (VEGF)-induced chemoinvasion. Improves hemodynamics such as aortic flow, coronary flow, and cardiac output.",
-        "Harms/Effects": "insomnia, mania, high blood pressure, vomiting, diarrhea",
+        "HarmsEffects": "insomnia, mania, high blood pressure, vomiting, diarrhea",
         "RecommendedDosage": "dosage of 200 mg per day",
         "DrugInteractions": "warfrin, Phenelzine, Alcohol",
         "Citations": "1.Park SY, Park JH, Kim HS, et al. Systems-level mechanisms of action of Panax ginseng : a network pharmacological approach. Journal of Ginseng Research. 2018;42(1):98-106. doi:https://doi.org/10.1016/j.jgr.2017.09.001 , 2. Asian Ginseng. NCCIH. Published August 2020. https://www.nccih.nih.gov/health/asian-ginseng\n\u200c"
@@ -22,7 +22,7 @@
         "Route": "Ingestion",
         "treats": "irritable bowel syndrome, gastrointestinal problems, coagulant, prevents bleeding, colon health, antimicrobial, antifungal, antioxidant, antidiabetic, anti-inflammatory, antioxidant",
         "DrugMechansim": "Antioxidant and antimicrobial activities may occur through the direct action on oxidants or microbes, whereas the anti-inflammatory, anticancer, and antidiabetic activities occur indirectly via receptor-mediated mechanisms. ",
-        "Harms/Effects": "gastrointestinal problems or allergic reactions",
+        "HarmsEffects": "gastrointestinal problems or allergic reactions",
         "RecommendedDosage": "1/2 to 1 teaspoon of cinnamon powder or 500 mg to 2000 mg of cinnamon extract",
         "DrugInteractions": "warfarin",
         "Citations": "1.Rao PV, Gan SH. Cinnamon: A Multifaceted Medicinal Plant. Evidence-Based Complementary and Alternative Medicine. 2014;2014(642942):1-12. doi:https://doi.org/10.1155/2014/642942, 2.Cinnamon. NCCIH. Published May 2020. https://www.nccih.nih.gov/health/cinnamon\n\u200c\n\u200c"
@@ -36,7 +36,7 @@
         "Route": "Ingestion",
         "Wtreats": "dizziness, insomnia, palpitations, shortness of breath, replenish Qi and ease the mind",
         "DrugMechansim": "Binds to an androgen receptor and inhibit 5\u03b1-reductase, suppressing androgen-induced LNCaP cell growth and downregulating the prostate-specific antigen.",
-        "Harms/Effects": "lower blood pressure",
+        "HarmsEffects": "lower blood pressure",
         "RecommendedDosage": "1-3 grams",
         "DrugInteractions": "Anticoagulant/Antiplatelet Drugs,Blood Pressure Medications",
         "Citations": "1.Benzie IFF, Wachtel-Galor S, Packer L. Herbal Medicine : Biomolecular and Clinical Aspects. CRC Press; 2011., 2.Reishi Mushroom: MedlinePlus Supplements. medlineplus.gov. https://medlineplus.gov/druginfo/natural/905.html\n\u200c"
@@ -50,7 +50,7 @@
         "Route": "Ingestion",
         "treats": "hormonal imbalances, menstrual irregularities, menopausal symptoms, respiratory ailments, digestive disorders",
         "DrugMechansim": "Inhibits pro-inflammatory cytokines and inflammatory mediators that participate in the MAPK signaling pathway and promote immune function",
-        "Harms/Effects": "increased blood pressure and decreased potassium levels",
+        "HarmsEffects": "increased blood pressure and decreased potassium levels",
         "Recommende Dosage": "10 grams of licorice root",
         "DrugInteractions": "Digoxin, Prednisolone, Hydrocortisone, Oral contraceptives",
         "Citations": "1.Zhang Q, Huang H, Qiu M, et al. Traditional Uses, Pharmacological Effects, and Molecular Mechanisms of Licorice in Potential Therapy of COVID-19. Frontiers in Pharmacology. 2021;12. doi:https://doi.org/10.3389/fphar.2021.719758, 2.Licorice Root. NCCIH. Published August 2020. https://www.nccih.nih.gov/health/licorice-root\n\u200c\n\u200c"
@@ -64,7 +64,7 @@
         "Route": "Ingestion",
         "treats": "bad circulation, digestive issues, vomiting, nausea, inflammatory disorders",
         "DrugMechansim": "Inhibits serotonin receptors and to exert antiemetic effects at the level of the gastrointestinal system and in the central nervous system.",
-        "Harms/Effects": "abdominal discomfort, throat and mouth discomfort",
+        "HarmsEffects": "abdominal discomfort, throat and mouth discomfort",
         "RecommendedDosage": "4 grams",
         "DrugInteractions": "warfarin, heparin, clopidogrel",
         "Citations": "1.White B. Ginger: an overview. Am Fam Physician. 2007 Jun 1;75(11):1689-91. PMID: 17575660., 2.Ginger. NCCIH. Published December 2020. https://www.nccih.nih.gov/health/ginger\n\u200c"
@@ -78,7 +78,7 @@
         "Route": "Ingestion",
         "treats": "congestion, fever, respiratory issues",
         "DrugMechansim": "n/a",
-        "Harms/Effects": "\"administration of CVE alleviates the neuronal damage induced by oxidative and ischemic stress in the hippocampus by decreasing the inflammatory responses and phosphorylation of JNK, ERK, and p38 in the hippocampus.\" 3 May not be harmful according to some studies. May be harmful in high doses. Can damage hippocampal cells in gerbils.3",
+        "HarmsEffects": "\"administration of CVE alleviates the neuronal damage induced by oxidative and ischemic stress in the hippocampus by decreasing the inflammatory responses and phosphorylation of JNK, ERK, and p38 in the hippocampus.\" 3 May not be harmful according to some studies. May be harmful in high doses. Can damage hippocampal cells in gerbils.3",
         "RecommendedDosage": "n/a",
         "DrugInteractions": "n/a",
         "Citations": "1. Volpato G, God\u00ednez D, Beyra A, Barreto A. Uses of medicinal plants by haitian immigrants and their descendants in the province of camag\u00fcey, cuba. J Ethnobiology Ethnomedicine. 2009;5(1). doi: 10.1186/1746-4269-5-16.\n\n2. Rojas-Sandoval J. Cissus verticillata (possum grape vine). CABI Compendium. 2022;CABI Compendium. doi: 10.1079/cabicompendium.82702108. 3. Kim W, Kwon HJ, Jung HY, et al. Cissus verticillata Extract Decreases Neuronal Damage Induced by Oxidative Stress in HT22 Cells and Ischemia in Gerbils by Reducing the Inflammation and Phosphorylation of MAPKs. Plants (Basel). 2021;10(6):1217. Published 2021 Jun 15. doi:10.3390/plants10061217"
@@ -92,7 +92,7 @@
         "Route": "Ingestion",
         "treats": "diabetes mellitus",
         "DrugMechansim": "n/a",
-        "Harms/Effects": "n/a",
+        "HarmsEffects": "n/a",
         "RecommendedDosage": "n/a",
         "DrugInteractions": "n/a",
         "Citations": "3. Pepato MT, Baviera AM, Vendramini RC, Da Silva Perez, Maira Da Penha Marques, Kettelhut IDC, Brunetti IL. Cissus sicyoides (princess vine) in the long\u2010term treatment of streptozotocin diabetic rats. Biotech and App Biochem. 2003;37(1):15. doi: 10.1042/ba20020065."
@@ -106,7 +106,7 @@
         "Route": "Ingestion",
         "treats": "diabetes mellitus, hypoglycemic effects, reduce blood sugar, gastrointestinal ailments\u2074",
         "DrugMechansim": "Contains cacalol which \"displayed high water solubility conferring it some advantages such as a good drug gastrointestinal absorption and adequate blood-brain barrier penetration.\"5",
-        "Harms/Effects": "\"administering  a  decoction  of C.sicyoides leaves  by  mouth over  an  extended  period  revealed  a  beneficial  effect  on physiological  and  metabolic  parameters  related  to  carbohydrate  and  protein  metabolism.\"\u2083 May not be harmful on experimental models. ",
+        "HarmsEffects": "\"administering  a  decoction  of C.sicyoides leaves  by  mouth over  an  extended  period  revealed  a  beneficial  effect  on physiological  and  metabolic  parameters  related  to  carbohydrate  and  protein  metabolism.\"\u2083 May not be harmful on experimental models. ",
         "RecommendedDosage": "n/a",
         "DrugInteractions": "n/a",
         "Citations": "4. Matarique. . . https://www.utep.edu/herbal-safety/herbal-facts/herbal%20facts%20sheet/matarique%20.html. Accessed Feb 2, 2024. 5. Castillo-Arellano JI, G\u00f3mez-Verjan JC, Rojano-Vilchis NA, et al. Chemoinformatic Analysis of Selected Cacalolides from Psacalium decompositum (A. Gray) H. Rob. & Brettell and Psacalium peltatum (Kunth) Cass. and Their Effects on Fc\u03b5RI-Dependent Degranulation in Mast Cells. Molecules. 2018;23(12):3367. Published 2018 Dec 19. doi:10.3390/molecules23123367"
@@ -120,7 +120,7 @@
         "Route": "Ingestion",
         "treats": "makes blood, hypovolemia, anemia",
         "DrugMechansim": "\"Intestinal oxalate-degrading bacteria decompose oxalic acid to reduce the absorption of oxalic acid; calcium ions combine with oxalate to form insoluble calcium oxalate, which is not absorbed by the intestine and is excreted with feces, thus limiting the absorption of oxalate.\" 3",
-        "Harms/Effects": "Harmful. Contains calcium oxalate: crystals may stick together and form a solid mass (a kidney stone).",
+        "HarmsEffects": "Harmful. Contains calcium oxalate: crystals may stick together and form a solid mass (a kidney stone).",
         "RecommendedDosage": "n/a",
         "DrugInteractions": "n/a",
         "Citations": "1. Calcium oxalate stones. National Kidney Foundation Web site. https://www.kidney.org/atoz/content/calcium-oxalate-stone. Updated 2016. Accessed Feb 2, 2024.\n\n2. Taylor LA. Plants-used-as-curatives-native american. Botanical Museum of Harvard University. 1940. 3. Chen T, Qian B, Zou J, et al. Oxalate as a potent promoter of kidney stone formation. Front Med (Lausanne). 2023;10:1159616. Published 2023 Jun 5. doi:10.3389/fmed.2023.1159616"
@@ -134,7 +134,7 @@
         "Route": "Ingestion ",
         "treats": "rheumatism, inflammation, promote childbirth, anticonvulsive, hysterics",
         "DrugMechansim": "triterpene saponins contains oleanolic acid glycosides caulosides A exert anti-inflammatory effects by way of inhibiting expression of inducible nitric oxide synthase (iNOS) and the pro-inflammatory cytokines tumor necrosis factor alpha (TNF-\u03b1) and interleukin 6 (IL-6). This leads to anti-inflammation and reduces rheumatism. ",
-        "Harms/Effects": "Might be harmless in small doses. Larger doses can cause convulsions followed by paralysis. Contains teratogenic properties.  Not recomended for inducing labor and regulating menstraul cycle. Do not take while pregnant. ",
+        "HarmsEffects": "Might be harmless in small doses. Larger doses can cause convulsions followed by paralysis. Contains teratogenic properties.  Not recomended for inducing labor and regulating menstraul cycle. Do not take while pregnant. ",
         "RecommendedDosage": "5 to 10 drops taken every 2 to 4 hours",
         "DrugInteractions": "n/a",
         "Citations": "3. Setzer WN. The phytochemistry of cherokee aromatic medicinal plants. Medicines (Basel). 2018;5(4):121. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6313439/. Accessed Feb 2, 2024. doi: 10.3390/medicines5040121. 4. Jones TK, Lawson BM. Profound neonatal congestive heart failure caused by maternal consumption of blue cohosh herbal medication. J Pediatr. 1998;132(3 Pt 1):550-552. doi:10.1016/s0022-3476(98)70041-1                                            5. NYU langone health department of surgery. Froemke Lab Web site. https://froemkelab.med.nyu.edu/surgery/content?ChunkIID=21599#P2. Updated 2014. Accessed Feb 2, 2024."
