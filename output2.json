@@ -1,17 +1,17 @@
 ﻿[
     {
         "CommonName": ["ren shen", "panax spp", "chinese ginseng","panax quinquefolius"],
-        "Groups": "China",
-        "EnglishName": "ginseng",
-        "ScientificName": "panax ginseng",
-        "Preparation": "tea, chewed",
-        "Route": "Ingestion",
-        "treats?": "chronic fatigue, thirst, weakness, chronic wheezing, dry cough",
-        "DrugMechansim": "Promotes vascular endothelial cell-derived nitric oxide secretion. Modulates multiple steps of angiogenesis such as inhibiting endothelial cell proliferation, formation of capillary tube, and vascular endothelial growth factor (VEGF)-induced chemoinvasion. Improves hemodynamics such as aortic flow, coronary flow, and cardiac output.",
-        "HarmsEffects": "insomnia, mania, high blood pressure, vomiting, diarrhea",
-        "RecommendedDosage": "dosage of 200 mg per day",
-        "DrugInteractions": "warfrin, Phenelzine, Alcohol",
-        "Citations": "1.Park SY, Park JH, Kim HS, et al. Systems-level mechanisms of action of Panax ginseng : a network pharmacological approach. Journal of Ginseng Research. 2018;42(1):98-106. doi:https://doi.org/10.1016/j.jgr.2017.09.001 , 2. Asian Ginseng. NCCIH. Published August 2020. https://www.nccih.nih.gov/health/asian-ginseng\n\u200c"
+        "Groups": ["China"],
+        "EnglishName": ["ginseng"],
+        "ScientificName": ["panax ginseng"],
+        "Preparation": ["tea, chewed"],
+        "Route": ["Ingestion"],
+        "treats?": ["chronic fatigue, thirst, weakness, chronic wheezing, dry cough"],
+        "DrugMechansim": ["Promotes vascular endothelial cell-derived nitric oxide secretion. Modulates multiple steps of angiogenesis such as inhibiting endothelial cell proliferation, formation of capillary tube, and vascular endothelial growth factor (VEGF)-induced chemoinvasion. Improves hemodynamics such as aortic flow, coronary flow, and cardiac output."],
+        "HarmsEffects": ["insomnia, mania, high blood pressure, vomiting, diarrhea"],
+        "RecommendedDosage": ["dosage of 200 mg per day"],
+        "DrugInteractions": ["warfrin, Phenelzine, Alcohol"],
+        "Citations": ["1.Park SY, Park JH, Kim HS, et al. Systems-level mechanisms of action of Panax ginseng : a network pharmacological approach. Journal of Ginseng Research. 2018;42(1):98-106. doi:https://doi.org/10.1016/j.jgr.2017.09.001 , 2. Asian Ginseng. NCCIH. Published August 2020. https://www.nccih.nih.gov/health/asian-ginseng\n\u200c"]
     },
     {
         "CommonName": ["rou gui", "cinnamon", "cinnamon bark", "ceylon cinnamon","cassia cinnamon"],
